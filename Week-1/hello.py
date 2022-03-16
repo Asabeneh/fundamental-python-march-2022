@@ -1,0 +1,8 @@
+print('Hello')
+print('Hello everyone!')
+print('Hello Python!')
+print('All my students love Python so very much!')
+print(10 + 2)
+print(2 * 3)
+print('Visual studio made coding much greater than ever before')
+print('Asabeneh', 'Yetayeh', 250, 'Finland', True, ['Python','JavaScript','Flying'])
